@@ -9,6 +9,8 @@
 }
 .image {
 }
+.placeholder {
+}
 .button {
 }
 ._一级标题 {
@@ -114,6 +116,9 @@
 }
 .radio_button {
   text-align:left;
+}
+.html_button {
+  text-align:center;
 }
 ._流程形状 {
 }
