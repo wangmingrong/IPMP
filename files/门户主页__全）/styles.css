@@ -1119,3 +1119,25 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u113_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:32px;
+  height:33px;
+}
+#u113 {
+  position:absolute;
+  left:1317px;
+  top:5px;
+  width:32px;
+  height:33px;
+  color:#FFFFFF;
+}
+#u114 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:28px;
+  word-wrap:break-word;
+}
